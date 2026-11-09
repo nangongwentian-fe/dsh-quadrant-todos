@@ -1,0 +1,14 @@
+# .DS_Store
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+
+# Local logs and temp files
+*.log

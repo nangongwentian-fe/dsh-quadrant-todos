@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Quadrant todos">
+  <rect width="128" height="128" rx="28" fill="#1b1f2a"/>
+  <rect x="26" y="26" width="34" height="34" rx="9" fill="#e5534b"/>
+  <rect x="68" y="26" width="34" height="34" rx="9" fill="#3d7de0"/>
+  <rect x="26" y="68" width="34" height="34" rx="9" fill="#e0a03d"/>
+  <rect x="68" y="68" width="34" height="34" rx="9" fill="#5b6472"/>
+</svg>
