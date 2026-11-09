@@ -4,6 +4,8 @@ Four-quadrant (Eisenhower) todo list plugin for the [DeepSeek Harness](https://g
 
 [中文说明](#中文说明) · [MIT License](LICENSE)
 
+![Quadrant todos panel in the DeepSeek Harness Web UI](docs/preview.png)
+
 ## Features
 
 - **Sidebar entry + full panel** — `Todo list` appears in the left column's global panel list; selecting it opens the board without touching your sessions.
@@ -78,6 +80,8 @@ MIT — see [LICENSE](LICENSE).
 ## 中文说明
 
 DeepSeek Harness Web UI 的四象限（艾森豪威尔）待办插件：在左侧栏增加一个入口，主区域是一个 2×2 看板——重要且紧急、重要不紧急、紧急不重要、不重要不紧急。
+
+![四象限待办面板](docs/preview.png)
 
 ### 功能
 
